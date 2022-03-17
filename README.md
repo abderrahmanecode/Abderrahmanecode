@@ -1,5 +1,5 @@
 # Hi there!
-I'm Abderrahmane abouziad from Morocco, living in Berrechid, future software engineering, I really enjoy learning languages and frameworks like JS and react.
+I'm Abderrahmane ABOUZIAD from Morocco, living in Berrechid, future software engineering, I really enjoy learning languages and frameworks like JS and react.
 
 
 - 🔭 I’m currently working on a new web applications with ASP.NET.
