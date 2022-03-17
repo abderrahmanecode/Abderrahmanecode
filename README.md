@@ -1,9 +1,5 @@
-### Hi there 👋
+I'm Abderrahmane abouziad from Morocco, living in Berrechid, future software engineering, I really enjoy learning languages and frameworks like JS and react.
 
-<!--
-**abderrahmanecode/Abderrahmanecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a new web applications with ASP.NET.
 - 🌱 I’m currently learning flutter...
